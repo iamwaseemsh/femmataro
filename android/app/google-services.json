@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6442399605",
+    "project_id": "femmetaro",
+    "storage_bucket": "femmetaro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6442399605:android:429d8b824fbd501847853c",
+        "android_client_info": {
+          "package_name": "com.bism.femmataro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6442399605-0kjc01dt7761e7u4nb4rf5sj5613b02v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bism.femmataro",
+            "certificate_hash": "cd76934c60066a4d10e364868b301a8ebf7bf5e3"
+          }
+        },
+        {
+          "client_id": "6442399605-qgjlg8tnarsmma7f293lqkn2buhuchie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bism.femmataro",
+            "certificate_hash": "6347e31a74d1a7ee61c968c50728bd942e91a50a"
+          }
+        },
+        {
+          "client_id": "6442399605-biu6oj7a1lvmj42ev2oagej4sr83n0n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3TQOes8goX3BdXz_8a1yoyVzLWvu2YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6442399605-biu6oj7a1lvmj42ev2oagej4sr83n0n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
